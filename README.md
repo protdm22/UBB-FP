@@ -1,4 +1,10 @@
-# UBB-FP
-Fundamentals of Programming assignments and tests from my first year at Babeș-Bolyai University
+## 📘 UBB-FP – Fundamentals of Programming
 
-*Need to refactor the folders and READMEs and also remove a good part of the documentation so that this repo is no longer consider mainly written in HTML 🤗*
+Assignments, tests, and practice problems from the *Fundamentals of Programming* course during my first year at Babeș-Bolyai University (UBB), Faculty of Mathematics and Computer Science.
+
+Includes:
+- 🧠 Introductory programming exercises
+- 🧪 Lab work and test problems
+- 💻 Python-based implementations
+
+A small personal archive of my learning journey in first-year CS.  
